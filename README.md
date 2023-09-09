@@ -6,7 +6,7 @@ Project has been built in UE5.0
 
 
 Overview: A grapple gun is incorporated with Physics based character. Demo has been optimised for
-mobile devices with touch inputs as mentioned in the assignment guidelines.
+mobile devices with touch inputs.
 
 
 Physics: When a force is applied on the main body, it gains momentum. When the character grapples
